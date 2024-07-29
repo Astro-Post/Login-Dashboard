@@ -1,4 +1,4 @@
-# Accessible Astro Dashboard
+# Astro Post Dashboard
 
 This Dashboard theme is build upon the (awesome) [Astro Static Site Builder](https://astro.build/). To help you build your project *faster*, this theme includes some dedicated accessible components (such as a keyboard accessible and responsive navigation) and several components coming from the [Accessible Astro Components](https://github.com/markteekman/accessible-astro-components) npm package. This theme also includes example pages, admin pages, a custom 404 page and many **Design System** utility classes, patterns and primatives (such as grids, buttons, lists, spacings, sizes and more).
 
@@ -36,10 +36,6 @@ npm install && npm start
 - Nate Moore's awesome [Astro Icon](https://github.com/natemoo-re/astro-icon) package is also preinstalled which can be applied to different use cases
 
 **Provided by the Accessible Astro Components package*
-
-## Login & Authentication
-
-This starter contains a basic example of authentication and redirecting based on a users logged in status. However, this is done using SSG, which is not ideal, but serves the purpose of this demo. For better authentication and redirecting you should use [Astro's (experimental) SSR](https://docs.astro.build/en/guides/server-side-rendering/).
 
 ### Enabling SSR
 
